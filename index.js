@@ -4,4 +4,4 @@ function writeCards(names, value) {
         messageNames.push([`Thank you, ${names[i]}, for the wonderful ${value} gift!`]);
     return messageNames; }
 }
-writeCards(["Guadalupe", "Ollie", "Aki"], "suprise")
+writeCards(["Guadalupe", "Ollie", "Aki"], "surprise")
